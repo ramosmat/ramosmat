@@ -83,7 +83,7 @@
 ## Olá, boas-vindas ao meu GitHub!
 
 - Desenvolvedor Front End
-- Python Developer
+- Desenvolvedor Python
 - Gosto de enfrentar desafios que me estimulem a estudar novos temas e me desenvolver pessoal e profissionalmente
 - Atualmente me desenvolvendo em NextJS, React e TailwindCSS
 - Você pode entrar em contato pelo e-mail: <a href="mailto:matheusramosbi.13@gmail.com" target="_blank">matheusramosbi.13@gmail.com</a>
