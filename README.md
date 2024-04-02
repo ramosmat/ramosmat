@@ -18,11 +18,11 @@
   <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px">
     <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
     <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> &nbsp;
-    <!-- <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp; -->
     <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
     <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
     <img align="center" alt="tailwindCss" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
-    <span><b>JavaScript ES6, TypeScript, HTML5, CSS3, TailwindCSS</b> | API and web app interaction, structure and styling</span>
+    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+    <span><b>JavaScript ES6, TypeScript, HTML5, CSS3, TailwindCSS, Python</b> | API and web app interaction, structure and styling. Data manipulation, graphics cronstruction and Machine Learning</span>
   </div>
   <!-- <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px"> 
     <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
@@ -101,11 +101,11 @@
   <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px">
     <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
     <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> &nbsp;
-    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
     <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
     <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
     <img align="center" alt="tailwindCss" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
-    <span><b>JavaScript ES6, TypeScript, Python, HTML5, CSS3, TailwindCSS</b> | Interação, estrutura e estilização de aplicativos e APIs web</span>
+    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+    <span><b>JavaScript ES6, TypeScript, HTML5, CSS3, TailwindCSS, Python</b> | Interação, estrutura e estilização de aplicativos e APIs web. Manipulação de dados, construção de gráficos e Machine Learning</span>
   </div>
   <!-- <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px; margin-top: 12px"> 
     <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
