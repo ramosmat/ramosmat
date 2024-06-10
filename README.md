@@ -122,7 +122,7 @@
     <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"> &nbsp;
     <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> &nbsp;
     <!-- <span><b>Node.js, Sequelize, Docker, MySQL, MongoDB, Python</b> | API creation, ORM, containers and databases</span> -->
-    <span><b>Python, PostgreSQL</b> | Databases management, ETL process, Machine Learning and API request</span>
+    <span><b>Python, PostgreSQL</b> | Consultas em Databases, processos de ETL , Machine Learning e requisição de API</span>
   </div>
   <!-- <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px;  margin-top: 12px">
     <img align="center" alt="Mocha" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"> &nbsp;
