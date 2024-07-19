@@ -16,12 +16,11 @@
 
 <div>
   <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px">
-    <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
-    <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> &nbsp;
     <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
     <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
     <img align="center" alt="tailwindCss" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
-    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+    <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
+    <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
     <span><b>JavaScript ES6, TypeScript, HTML5, CSS3, TailwindCSS, Python</b> | API and web app interaction, structure and styling. Data manipulation, graphics cronstruction and Machine Learning</span>
   </div>
   <!-- <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px"> 
@@ -36,7 +35,7 @@
     <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> &nbsp;
     <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
     <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"> &nbsp;. -->
-    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"> &nbsp;
+    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
     <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> &nbsp;
     <!-- <span><b>Node.js, Sequelize, Docker, MySQL, MongoDB, Python</b> | API creation, ORM, containers and databases</span> -->
     <span><b>Python, PostgreSQL</b> | Databases management, ETL process, Machine Learning and API request</span>
@@ -57,7 +56,7 @@
   <!-- <img align="center" alt="gitlab" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"> &nbsp; -->
   <img align="center" alt="ubuntu" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg"> &nbsp;
   <img align="center" alt="npm" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg"> &nbsp;
-  <!-- <img align="center" alt="eslint" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg"> &nbsp; -->
+  <img align="center" alt="eslint" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg"> &nbsp;
   <img align="center" alt="vscode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"> &nbsp;
   <!-- <img align="center" alt="trello" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg"> &nbsp; -->
   <!-- <img align="center" alt="express" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"> &nbsp; -->
@@ -99,12 +98,11 @@
 
 <div>
   <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px">
-    <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
-    <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> &nbsp;
     <img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
     <img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp;
+    <img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
+    <img align="center" alt="React" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp;
     <img align="center" alt="tailwindCss" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"> &nbsp;
-    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
     <span><b>JavaScript ES6, TypeScript, HTML5, CSS3, TailwindCSS, Python</b> | Interação, estrutura e estilização de aplicativos e APIs web. Manipulação de dados, construção de gráficos e Machine Learning</span>
   </div>
   <!-- <div style="box-sizing: border-box; padding-top: 8px; padding-bottom: 8px; margin-top: 12px"> 
@@ -119,8 +117,8 @@
     <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"> &nbsp;
     <img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> &nbsp;
     <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"> &nbsp;. -->
-    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg"> &nbsp;
-    <img align="center" alt="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> &nbsp;
+    <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp;
+    <img align="center" alt="PostgreSQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"> &nbsp;
     <!-- <span><b>Node.js, Sequelize, Docker, MySQL, MongoDB, Python</b> | API creation, ORM, containers and databases</span> -->
     <span><b>Python, PostgreSQL</b> | Consultas em Databases, processos de ETL , Machine Learning e requisição de API</span>
   </div>
@@ -140,7 +138,7 @@
 <!-- <img align="center" alt="gitlab" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"> &nbsp; -->
 <img align="center" alt="ubuntu" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg"> &nbsp;
 <img align="center" alt="npm" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg"> &nbsp;
-<!-- <img align="center" alt="eslint" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg"> &nbsp; -->
+<img align="center" alt="eslint" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg"> &nbsp;
 <img align="center" alt="vscode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"> &nbsp;
 <!-- <img align="center" alt="trello" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg"> &nbsp; -->
 <!-- <img align="center" alt="express" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"> &nbsp; -->
